@@ -11,6 +11,9 @@ public class testowa {
 		
 		System.out.println("witaj gicie");
 		System.out.println("witaj gicie");
+		
+		System.out.println("witaj gicie");
+		System.out.println("witaj gicie");
 	}
 
 }
