@@ -8,6 +8,8 @@ public class testowa {
 		// TODO Auto-generated method stub
 		System.out.print("testowy");
 		System.out.print("testowy");
+		
+		System.out.println("witaj gicie");
 	}
 
 }
