@@ -10,6 +10,7 @@ public class testowa {
 		System.out.print("testowy");
 		
 		System.out.println("witaj gicie");
+		System.out.println("witaj gicie");
 	}
 
 }
